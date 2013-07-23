@@ -11,4 +11,4 @@ To build GemX (the graphical user interface). This is probably not working at th
     $ make
 
   [1]: http://www.ccfinder.net/ccfinderxos.html
-  [2]: https://github.com/petersenna/ccfinderx-gui
+  [2]: https://github.com/petersenna/ccfinderx-core
